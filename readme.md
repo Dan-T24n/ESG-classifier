@@ -22,3 +22,7 @@ Data folder is not tracked for data privacy.
 - Extract embeddings seems to work, performance is sensitive to parameters tuning of the classifier.
 
 - Fine-tuning FinBERT directly is not as good as expected. Big improvement if ensemble multiple instances through cross-validation.
+
+# Citation
+
+Tran, D. (2023). ESG-classifier fine-tuned from FinBERT. GitHub. https://github.com/Dan-T24n/ESG-classifier
