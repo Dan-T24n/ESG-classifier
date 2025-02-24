@@ -4,7 +4,7 @@ Analyze ESG reports and classify each page into 3 categories: environmental, soc
 
 # Data
 
-Each report is a pdf file. Each page is a record. There are about 2000 pages and 50 reports.
+Each report is a pdf file. Each page is a record. There are about 2000 pages and 50 reports, for a total of 10,000 pages with text, table, charts.
 
 - parsing pdf: important step, some pages are not parse correctly due to charts, graphics, etc.
 - improve parsing with OCR could help, but too slow (10s/page)
